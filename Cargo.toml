@@ -1,0 +1,6 @@
+[package]
+name = "rust_fizz_buzz"
+version = "0.1.0"
+authors = ["Umizoko"]
+
+[dependencies]
